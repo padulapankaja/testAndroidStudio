@@ -1,0 +1,9 @@
+<resources>
+
+        <string name="app_name">Lab02</string>
+        <string name="msg1">Welcome to SLIIT</string>
+        <string name="msg2">Welcome to Class</string>
+        <string name="mg3">This is message</string>
+        <string name="msg4">This is message 5</string>
+
+</resources>
